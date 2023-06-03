@@ -1,0 +1,5 @@
+- 👋 Hi, I'm Sayanth T M.
+- 👀 I'm interested in mobile app development and web development.
+- 🌱 I'm currently learning React.
+- 💞️ I'm looking to collaborate on open-source projects related to mobile app or web development.
+- 📫 You can reach me by sending an email to [sayanth.t.m9090@gmail.com](mailto:sayanth.t.m9090@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/sayanth-t-m-889759218/).
