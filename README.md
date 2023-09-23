@@ -5,7 +5,8 @@
 - 🌍 I'm from Kannur, Kerala, India.
 - 👨‍💻 I'm passionate about mobile app development and web development.
 - 🌱 Currently learning React and mastering Python.
-- 💻 Proficient in basic C and Java programming, with a focus on continuous improvement.
+- 💻 Proficient in flutter and basic C a
+ Java programming, with a focus on continuous improvement.
 
 ## Collaboration
 
