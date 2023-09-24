@@ -1,12 +1,12 @@
-# Hi, I'm Sayanth T M 👋
+# Hi, I'm Sayanth T M! 👋
 
 ## About Me
 
 - 🌍 I'm from Kannur, Kerala, India.
+- 🎓 Currently pursuing a B.Tech in Computer Science Engineering (CSE).
 - 👨‍💻 I'm passionate about mobile app development and web development.
-- 🌱 Currently learning React and mastering Python.
-- 💻 Proficient in flutter and basic C and
- Java programming, with a focus on continuous improvement.
+- 🌱 I'm actively learning React and mastering Python.
+- 💻 Proficient in Flutter and basic C and Java programming, with a focus on continuous improvement.
 
 ## Collaboration
 
@@ -24,4 +24,17 @@
 - 📫 You can reach me by sending an email to [sayanth.t.m9090@gmail.com](mailto:sayanth.t.m9090@gmail.com).
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/sayanth-t-m-889759218/).
 
-Feel free to explore my projects and contributions below! 👇
+## GitHub Stats
+
+![Sayanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=sayanth-t-m&show_icons=true&theme=algolia)
+
+## Languages
+
+- C: ![C Icon](https://img.icons8.com/color/48/000000/c-programming.png)
+- Java: ![Java Icon](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
+- Flutter: ![Flutter Icon](https://img.icons8.com/color/48/000000/flutter.png)
+- Python: ![Python Icon](https://img.icons8.com/color/48/000000/python.png)
+- HTML: ![HTML Icon](https://img.icons8.com/color/48/000000/html-5.png)
+- CSS: ![CSS Icon](https://img.icons8.com/color/48/000000/css3.png)
+- JavaScript: ![JavaScript Icon](https://img.icons8.com/color/48/000000/javascript.png)
+- React: ![React Icon](https://img.icons8.com/color/48/000000/react-native.png)
