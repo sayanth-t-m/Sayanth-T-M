@@ -26,7 +26,7 @@
 
 Certainly, if you want to share your WhatsApp contact without exposing your actual phone number, you can use WhatsApp's wa.me links. These links allow users to send you messages without revealing your phone number. Here's how to do it in your GitHub README.md:
 
-```markdown
+
 ## Connect with Me
 
 - 📫 Email: [sayanth.t.m9090@gmail.com](mailto:sayanth.t.m9090@gmail.com).
