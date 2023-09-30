@@ -22,9 +22,6 @@
 - 🎶 Music Lover: Find me on [Spotify](https://open.spotify.com/user/200iwi2ev4ilm139cwlqja6ns).
 - 🎮 Gamer: Check out my [Steam profile](https://steamcommunity.com/profiles/76561199091464283/).
 
-## Connect with Me
-
-Certainly, if you want to share your WhatsApp contact without exposing your actual phone number, you can use WhatsApp's wa.me links. These links allow users to send you messages without revealing your phone number. Here's how to do it in your GitHub README.md:
 
 
 ## Connect with Me
