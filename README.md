@@ -24,9 +24,20 @@
 
 ## Connect with Me
 
-- 📫 Email: [sayanth.t.m9090@gmail.com](mailto:sayanth.t.m9090@gmail.com).
-- 🔗 LinkedIn: [Connect with me](https://www.linkedin.com/in/sayanth-t-m-889759218/).
+Certainly, if you want to share your WhatsApp contact without exposing your actual phone number, you can use WhatsApp's wa.me links. These links allow users to send you messages without revealing your phone number. Here's how to do it in your GitHub README.md:
 
+```markdown
+## Connect with Me
+
+- 📫 Email: [sayanth.t.m9090@gmail.com](mailto:sayanth.t.m9090@gmail.com).
+- 📱 WhatsApp: [Contact me on WhatsApp](https://wa.me/7012902263).
+  (Your number is kept private when using this link)
+- 🔗 LinkedIn: [Connect with me](https://www.linkedin.com/in/sayanth-t-m-889759218/).
+```
+
+In the "Contact me on WhatsApp" link, replace "yourphonenumber" with your actual WhatsApp number in international format (e.g., +1234567890).
+
+Using the wa.me link ensures that your phone number is not exposed directly, and people can contact you through WhatsApp without seeing your actual number.
 ## GitHub Stats
 
 ![Sayanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=sayanth-t-m&show_icons=true&theme=algolia)
