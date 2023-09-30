@@ -30,5 +30,7 @@ Certainly, if you want to share your WhatsApp contact without exposing your actu
 ## Connect with Me
 
 - 📫 Email: [sayanth.t.m9090@gmail.com](mailto:sayanth.t.m9090@gmail.com).
+
 - 📱 WhatsApp: [Contact me on WhatsApp](https://wa.me/917012902263).
+
 - 🔗 LinkedIn: [Connect with me](https://www.linkedin.com/in/sayanth-t-m-889759218/).
