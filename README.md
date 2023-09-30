@@ -1,6 +1,6 @@
 # Sayanth T M 
 
-👋 Hello, I'm Sayanth T M, a passionate software engineer and developer hailing from Kannur, Kerala, India. Currently, I'm pursuing a B.Tech in Computer Science Engineering (CSE), and my journey in the tech world is an exciting one.
+👋 Hello, I'm Sayanth T M, an enthusiastic student hailing from Kannur, Kerala, India. Currently, I'm pursuing a B.Tech in Computer Science Engineering (CSE), and my journey into the tech world is an exciting one.
 
 ## About Me
 
