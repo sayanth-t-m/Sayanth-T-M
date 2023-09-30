@@ -8,7 +8,7 @@
 - 🎓 Education: B.Tech in Computer Science Engineering.
 - 👨‍💻 Expertise: Mobile App Development, Web Development.
 - 🌱 Learning: React, Mastering Python.
-- 💻 Skills: Flutter, C, Java, and more.
+- 💻 Skills: Flutter, Basic C & Java, and more.
 - 🚀 Always striving for continuous improvement.
 
 ## Let's Collaborate
