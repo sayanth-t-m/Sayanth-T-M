@@ -1,4 +1,4 @@
-# Sayanth T M 
+# Sayanth T M
 
 👋 Hello, I'm Sayanth T M, an enthusiastic student hailing from Kannur, Kerala, India. Currently, I'm pursuing a B.Tech in Computer Science Engineering (CSE), and my journey into the tech world is an exciting one.
 
@@ -21,13 +21,10 @@
 - 🎥 Movie Buff: Enjoy watching movies.
 - 🎶 Music Lover: Find me on [Spotify](https://open.spotify.com/user/200iwi2ev4ilm139cwlqja6ns).
 - 🎮 Gamer: Check out my [Steam profile](https://steamcommunity.com/profiles/76561199091464283/).
-
-
+- 💡 Love learning new things and coding.
 
 ## Connect with Me
 
 - 📫 Email: [sayanth.t.m9090@gmail.com](mailto:sayanth.t.m9090@gmail.com).
-
 - 📱 WhatsApp: [Contact me on WhatsApp](https://wa.me/917012902263).
-
 - 🔗 LinkedIn: [Connect with me](https://www.linkedin.com/in/sayanth-t-m-889759218/).
