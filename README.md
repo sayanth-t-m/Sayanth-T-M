@@ -20,7 +20,7 @@
 
 - 📚 **Bookworm:** When not coding, I'm immersed in the world of books.
 - 🎥 **Movie Buff:** Enjoy watching movies.
-- 🎶 **Music Lover:** Find me on [Spotify](https://open.spotify.com/user/200iwi2ev4ilm139cwlqja6ns).
+- 🎶 **Who doesn't love music:** Find me on [Spotify](https://open.spotify.com/user/200iwi2ev4ilm139cwlqja6ns).
 - 🎮 **Gamer:** Check out my [Steam profile](https://steamcommunity.com/profiles/76561199091464283/).
 - 💡 **Love learning new things and coding.**
 
