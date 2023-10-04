@@ -14,7 +14,7 @@
 
 ## Let's Collaborate
 
-- 💞️ Open to collaborating on open-source projects related to mobile apps and web development.
+- ✅ Open to collaborating on open-source projects related to mobile apps and web development.
 
 ## Hobbies
 
