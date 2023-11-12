@@ -12,10 +12,6 @@
 - 💻 **Skills:** Flutter, Basic C & Java, and more.
 - 🚀 **Always striving for continuous improvement.**
 
-## Let's Collaborate
-
-- ✅ Open to collaborating on open-source projects related to mobile apps and web development.
-
 ## Hobbies
 
 - 📚 **Bookworm:** When not coding, I'm immersed in the world of books.
