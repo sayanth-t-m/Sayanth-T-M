@@ -16,7 +16,7 @@
 ⚡ **Fun fact:**
 Outside the coding realm, I'm a passionate gamer, and you can catch a glimpse of my gaming adventures on Steam. Additionally, I dabble in the art of curating playlists on Spotify, showcasing my musical side.
 
-[##My Resume](https://github.com/sayanth-t-m/Resume/blob/b4d9ac3f91b1b7b7cd5045bc9a6292f98e1ad642/Profile.pdf)
+## [My Resume](https://github.com/sayanth-t-m/Resume/blob/b4d9ac3f91b1b7b7cd5045bc9a6292f98e1ad642/Sayanth-T-M.pdf)
 
 ## 🌐 Socials:
 
