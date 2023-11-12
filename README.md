@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🔭 **Currently working on:**
+🔭 **Currently:**
 Pursuing a B.Tech in Computer Science Engineering with a focus on mobile app development and web development projects.
 
 👯 **Looking to collaborate on:**
