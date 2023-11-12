@@ -1,19 +1,17 @@
-# 💫 About Me:
+<div align="center">
+  <h1>Sayanth T M</h1>
+  <p>👋 Hello, I'm Sayanth T M, an enthusiastic student hailing from Kannur, Kerala, India. Currently, I'm pursuing a B.Tech in Computer Science Engineering (CSE), and my journey into the tech world is an exciting one.</p>
+</div>
 
-🔭 **Currently:**
-Pursuing a B.Tech in Computer Science Engineering with a focus on mobile app development and web development projects.
+## About Me
 
-👯 **Looking to collaborate on:**
-Exciting projects related to mobile app development, web development, or any innovative tech initiatives.
+- 🌍 **Location:** Kannur, Kerala, India.
+- 🎓 **Education:** B.Tech in Computer Science Engineering.
+- 👨‍💻 **Expertise:** Mobile App Development, Web Development.
+- 🌱 **Learning:** React, Mastering Python.
+- 💻 **Skills:** Flutter, Basic C & Java, and more.
+- 🚀 **Always striving for continuous improvement.**
 
-🤝 **Seeking help with:**
-Open to collaboration and assistance on challenging projects, especially those involving React and Python as part of my ongoing learning journey.
-
-🌱 **Currently learning:**
-Actively exploring the realms of React and mastering the enchanting language of Python.
-
-💬 **Ask me about:**
-Anything related to my expertise in mobile app development, web development, or my continuous learning experiences in the tech field.
 
 ⚡ **Fun fact:**
 Outside the coding realm, I'm a passionate gamer, and you can catch a glimpse of my gaming adventures on Steam. Additionally, I dabble in the art of curating playlists on Spotify, showcasing my musical side.
