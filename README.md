@@ -16,6 +16,8 @@
 ⚡ **Fun fact:**
 Outside the coding realm, I'm a passionate gamer, and you can catch a glimpse of my gaming adventures on Steam. Additionally, I dabble in the art of curating playlists on Spotify, showcasing my musical side.
 
+##[My Resume](Profile.pdf)
+
 ## 🌐 Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sayanth_t_m_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sayanth-t-m) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Sayanthtm5290) 
