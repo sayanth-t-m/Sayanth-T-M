@@ -18,7 +18,7 @@ Outside the coding realm, I'm a passionate gamer, and you can catch a glimpse of
 
 ---
 
-## [My Resume](https://github.com/sayanth-t-m/Resume/blob/b4d9ac3f91b1b7b7cd5045bc9a6292f98e1ad642/Sayanth-T-M.pdf)
+## [My Resume]([https://github.com/sayanth-t-m/Resume/blob/b4d9ac3f91b1b7b7cd5045bc9a6292f98e1ad642/Sayanth-T-M.pdf](https://github.com/sayanth-t-m/Resume/blob/8ae4d5e6d7b0f6d27d1990026aeb8ee5725edcca/Sayanth-T-M.pdf))
 
 ---
 
