@@ -59,6 +59,14 @@ Outside the coding realm, I'm a passionate gamer, and you can catch a glimpse of
 
 ## Connect with Me
 
+- 📫 **Email:** [sayanth.t.m9090@gmail.com](mailto:sayanth.t.m9090@gmail.com).
+- 📱 **WhatsApp:** [Contact me on WhatsApp](https://wa.me/917012902263).
+- 🔗 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/sayanth-t-m-889759218/).
+- 🎶 **Spotify:** [Spotify](https://open.spotify.com/user/200iwi2ev4ilm139cwlqja6ns).
+- 🎮 **Steam:** [Steam profile](https://steamcommunity.com/profiles/76561199091464283/).
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 >.　　　　　　　　　　   ✦    　　　　　　　　　　　　　　     *    .　　　　　　　　　　.             ✦                                                                    ☄️         .　　　　　　　　　　　　　.　　　ﾟ .　　　　　　　　　　　　　. 　　　　　　　　　　　　　　　✦ 　　　　　,　　　　　　　.
                  ☀️
@@ -84,10 +92,4 @@ Outside the coding realm, I'm a passionate gamer, and you can catch a glimpse of
 　　　˚　　　 　   　　　　 　　　　　　　　　　　,
 　　.　　　   　　    　　　　　 　　　　　.        .　　　　　　　　　　   ✦    　　　　　　　　　　　　　　     *    .　　　　　　　　　　.             ✦                                                                    ☄️         .　　　　　　　　　　　　　.　　　ﾟ .　　　　　　　　　　　　　.
 
-- 📫 **Email:** [sayanth.t.m9090@gmail.com](mailto:sayanth.t.m9090@gmail.com).
-- 📱 **WhatsApp:** [Contact me on WhatsApp](https://wa.me/917012902263).
-- 🔗 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/sayanth-t-m-889759218/).
-- 🎶 **Spotify:** [Spotify](https://open.spotify.com/user/200iwi2ev4ilm139cwlqja6ns).
-- 🎮 **Steam:** [Steam profile](https://steamcommunity.com/profiles/76561199091464283/).
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
