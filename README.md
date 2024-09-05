@@ -48,19 +48,19 @@
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=plastic&logo=git&logoColor=white) 
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
 
-## 📊 GitHub Stats:
+# 📊GitHub Stats :
 
-![](https://github-readme-stats.vercel.app/api?username=sayanth-t-m&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sayanth-t-m&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sayanth-t-m&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=sayanth-t-m&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sayanth-t-m&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sayanth-t-m&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+## 🏆GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=sayanth-t-m&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-trophies.vercel.app/?username=sayanth-t-m&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 ### 🔝 Top Contributed Repo
 
@@ -70,9 +70,8 @@
 
 [![](https://visitcount.itsvg.in/api?id=sayanth-t-m&icon=4&color=8)](https://visitcount.itsvg.in)
 
-### 😂 Random Dev Meme
-
-<img src='https://source-for-random-dev-meme.com/api/random' style="height: 400px;"/>
+### 😂Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 
 ## Connect with Me
