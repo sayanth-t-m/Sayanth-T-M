@@ -70,8 +70,6 @@
 
 [![](https://visitcount.itsvg.in/api?id=sayanth-t-m&icon=4&color=8)](https://visitcount.itsvg.in)
 
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 
 ## Connect with Me
