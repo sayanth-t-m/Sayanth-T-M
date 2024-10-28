@@ -9,7 +9,7 @@
 - 🎓 **Education:** B.Tech in Computer Science Engineering
 - 👨‍💻 **Expertise:** Mobile App Development, Web Development
 - 🌱 **Learning:** React, Mastering Python
-- 💻 **Skills:** Flutter, Basic C & Java, and more
+- 💻 **Skills:** Flutter, Basic C & Java
 - 🚀 **Always striving for continuous improvement**
 
 ⚡ **Fun fact:** Outside the coding realm, I'm a passionate gamer. You can catch a glimpse of my gaming adventures on Steam. Additionally, I curate playlists on Spotify, showcasing my musical side.
